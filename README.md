@@ -1,8 +1,8 @@
 # Food_App_Project
-Using spring mvc Architecture to create Food_App.
+# Using spring mvc Architecture to create Food_App.
 
 
-Architecture of spring mvc -
+# Architecture of spring mvc -
 
 step 1 :- Request is send dispatcher-servlet from client
 step 2 :- It is forwarded to Handler-Mapping, Handler-Mapping will searching for the request in controller class
